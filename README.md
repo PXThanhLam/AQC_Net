@@ -6,7 +6,7 @@ to train. <br/>
 
 Default of num_label is 5 and batch_size is 32. <br/>
 
-Your folder should organized like before: <br/>
+Your folder should organized like this: <br/>
 
 ImgRoot/ <br/>
 &nbsp; label1/ <br/>
