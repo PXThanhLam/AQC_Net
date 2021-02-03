@@ -4,7 +4,7 @@ Implement of the paper: A deep learning and image-based model for air quality es
 Run python train.py --train_folder PATH_TO_YOUR_FOLDER --val_folder --PATH_TO_YOUR_FOLDER --num_label NUBER_OF_DESIRED_LABEL --batch_size YOUR_DESIRED_BATCH_SIZE
 to train. <br/>
 
-Default of num_label is 5 and batch_size is 32. <br/>
+Default of num_label is 6 and batch_size is 32. <br/>
 
 Your folder should organized like this: <br/>
 
